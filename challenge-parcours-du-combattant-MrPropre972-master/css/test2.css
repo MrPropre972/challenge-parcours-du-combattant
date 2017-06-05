@@ -1,0 +1,31 @@
+/*
+ * L'impossible formulaire aux placeholders multicolores
+ * Au moment où les inputs sont cliqués, la bordure et le placeholder doivent changer de couleur !
+ */
+
+#nom {
+   display: block;
+   margin: 20px 0px;
+   width: 500px;
+   height: 50px;
+   font-weight: bold;
+   color: red;
+   border-color: #bc3eff;
+   border-style: groove;
+}
+
+#password {
+  display: block;
+  margin: 20px 0px;
+  width: 500px;
+  height: 50px;
+}
+
+#envoyer{
+  border: none;
+  color: white;
+  background-color: black;
+  height: 3em;
+  width: 4em;
+
+}

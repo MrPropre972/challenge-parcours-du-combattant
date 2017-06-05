@@ -1,0 +1,19 @@
+/*
+ * Le losange de la délivrance
+ */
+
+#section_geometrique{
+}
+
+#carre{
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+
+#rond{
+  width:20px;
+  height:20px;
+  background-color:red;
+  border-radius:50%;
+}
